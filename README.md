@@ -1,6 +1,6 @@
 # Order Service Observability
-A backend Order Service built with intentionally simple business rules, where the primary focus is observability rather than domain complexity.
+Order Service is a backend application built with intentionally simple business rules, allowing the primary focus to remain on observability rather than domain complexity.
 
-This project demonstrates how to instrument a modern backend application with structured logging, distributed tracing, and metrics to improve debugging, monitoring, and operational visibility. The goal is to showcase production-oriented engineering practices, including telemetry, request correlation, and performance insights.
+The project demonstrates how to instrument a modern backend service with structured logging, distributed tracing, and metrics to provide comprehensive operational visibility. It showcases production-ready engineering practices such as telemetry collection, request correlation, performance monitoring, and diagnostics, making it easier to identify issues, understand system behavior, and troubleshoot problems in distributed environments.
 
-Instead of implementing a complex business domain, the emphasis is on building a service that is easy to observe, diagnose, and operate.
+Rather than emphasizing complex business logic, the service is designed as a practical reference implementation for building observable systems. Its goal is to illustrate how effective observability enables reliable operations, faster debugging, and data-driven performance optimization in modern backend applications.
